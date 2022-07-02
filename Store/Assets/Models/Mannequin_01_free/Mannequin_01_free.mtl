@@ -1,0 +1,26 @@
+# Blender MTL File: 'Mannequin_01_free.blend'
+# Material Count: 2
+
+newmtl DefaultSkin
+Ns 669.337616
+Ka 1.000000 1.000000 1.000000
+Kd 0.671800 0.519800 0.396000
+Ks 0.300000 0.300000 0.300000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 646.745560
+Ka 0.357798 0.357798 0.357798
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump D:\\Growpal\\Naufal_Belajar\\Shutterstock\\Mannequin\\Texture\\Iron-Scuffed_bl\\Iron-Scuffed_normal.png
+map_Kd D:\\Growpal\\Naufal_Belajar\\Shutterstock\\Mannequin\\Texture\\Iron-Scuffed_bl\\Iron-Scuffed_basecolor.png
+map_Ns D:\\Growpal\\Naufal_Belajar\\Shutterstock\\Mannequin\\Texture\\Iron-Scuffed_bl\\Iron-Scuffed_roughness.png
+refl D:\\Growpal\\Naufal_Belajar\\Shutterstock\\Mannequin\\Texture\\Iron-Scuffed_bl\\Iron-Scuffed_metallic.png
