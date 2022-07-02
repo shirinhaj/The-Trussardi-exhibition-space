@@ -1,0 +1,134 @@
+# Blender MTL File: 'Baseball Cap2.blend'
+# Material Count: 11
+
+newmtl Cotton_40s_Chambray_Copy_1_FRONT_399260
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Cotton_40s_Chambray_Copy_2_FRONT_399267
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Cotton_40s_Chambray_Copy_3_FRONT_399274
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Cotton_40s_Chambray_FRONT_399239
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl FABRIC_2_FRONT_399248
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Material399479
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Material399497
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Material399606
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Material399726
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Material399846
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
+
+newmtl Plastic_FRONT_399255
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_normal.png
+map_Kd C:\\Users\\ROG\\OneDrive\\Documents\\CLO\\Projects\\Sketchfab Models\\Baseball Cap\\BaseballCap_diffuse.png
