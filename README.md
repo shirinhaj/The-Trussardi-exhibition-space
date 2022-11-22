@@ -1,1 +1,1 @@
-# FashionShop
+# The Trussardi exhibition space
