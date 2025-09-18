@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=store.PNG" alt="Trussardi" width="100%">
+  <img src="store.PNG" alt="Trussardi" width="100%">
 </p>
+
 
 # The Trussardi exhibition space
 ## Realized by: 
