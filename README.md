@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gucci2.PNG" alt="Thierry Mugler virtual exhibition" width="100%">
+  <img src="" alt="Thierry Mugler virtual exhibition" width="100%">
 </p>
 
 # The Trussardi exhibition space
