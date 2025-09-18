@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gucci2.PNG" alt="Thierry Mugler virtual exhibition" width="100%">
+</p>
+
 # The Trussardi exhibition space
 ## Realized by: 
 Maryam Arjomandi and Elena Glukhova 
